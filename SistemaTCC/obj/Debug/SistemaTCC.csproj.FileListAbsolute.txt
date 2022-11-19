@@ -1,0 +1,268 @@
+C:\Users\Giovanni\source\repos\SistemaTCC\SistemaTCC\bin\Debug\SistemaTCC.exe.config
+C:\Users\Giovanni\source\repos\SistemaTCC\SistemaTCC\bin\Debug\SistemaTCC.exe
+C:\Users\Giovanni\source\repos\SistemaTCC\SistemaTCC\bin\Debug\SistemaTCC.pdb
+C:\Users\Giovanni\source\repos\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.frmLogin.resources
+C:\Users\Giovanni\source\repos\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.frmPrincipal.resources
+C:\Users\Giovanni\source\repos\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.Properties.Resources.resources
+C:\Users\Giovanni\source\repos\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.csproj.GenerateResource.cache
+C:\Users\Giovanni\source\repos\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.exe
+C:\Users\Giovanni\source\repos\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.pdb
+C:\Users\Giovanni\source\repos\SistemaTCC\SistemaTCC\bin\Debug\EntityFramework.dll
+C:\Users\Giovanni\source\repos\SistemaTCC\SistemaTCC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Giovanni\source\repos\SistemaTCC\SistemaTCC\bin\Debug\EntityFramework.xml
+C:\Users\Giovanni\source\repos\SistemaTCC\SistemaTCC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Giovanni\source\repos\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.csproj.CopyComplete
+C:\Users\Giovanni\source\repos\SistemaTCC\SistemaTCC\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Giovanni\source\repos\SistemaTCC\SistemaTCC\bin\Debug\Google.Protobuf.dll
+C:\Users\Giovanni\source\repos\SistemaTCC\SistemaTCC\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Giovanni\source\repos\SistemaTCC\SistemaTCC\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Giovanni\source\repos\SistemaTCC\SistemaTCC\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Giovanni\source\repos\SistemaTCC\SistemaTCC\bin\Debug\MySql.Data.dll
+C:\Users\Giovanni\source\repos\SistemaTCC\SistemaTCC\bin\Debug\System.Buffers.dll
+C:\Users\Giovanni\source\repos\SistemaTCC\SistemaTCC\bin\Debug\System.Memory.dll
+C:\Users\Giovanni\source\repos\SistemaTCC\SistemaTCC\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Giovanni\source\repos\SistemaTCC\SistemaTCC\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Giovanni\source\repos\SistemaTCC\SistemaTCC\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Giovanni\source\repos\SistemaTCC\SistemaTCC\bin\Debug\ZstdNet.dll
+C:\Users\Giovanni\source\repos\SistemaTCC\SistemaTCC\bin\Debug\Google.Protobuf.pdb
+C:\Users\Giovanni\source\repos\SistemaTCC\SistemaTCC\bin\Debug\Google.Protobuf.xml
+C:\Users\Giovanni\source\repos\SistemaTCC\SistemaTCC\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Giovanni\source\repos\SistemaTCC\SistemaTCC\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Giovanni\source\repos\SistemaTCC\SistemaTCC\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Giovanni\source\repos\SistemaTCC\SistemaTCC\bin\Debug\MySql.Data.xml
+C:\Users\Giovanni\source\repos\SistemaTCC\SistemaTCC\bin\Debug\System.Buffers.xml
+C:\Users\Giovanni\source\repos\SistemaTCC\SistemaTCC\bin\Debug\System.Memory.xml
+C:\Users\Giovanni\source\repos\SistemaTCC\SistemaTCC\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Giovanni\source\repos\SistemaTCC\SistemaTCC\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\SistemaTCC\SistemaTCC\bin\Debug\SistemaTCC.exe.config
+E:\SistemaTCC\SistemaTCC\bin\Debug\SistemaTCC.exe
+E:\SistemaTCC\SistemaTCC\bin\Debug\SistemaTCC.pdb
+E:\SistemaTCC\SistemaTCC\bin\Debug\BouncyCastle.Crypto.dll
+E:\SistemaTCC\SistemaTCC\bin\Debug\EntityFramework.dll
+E:\SistemaTCC\SistemaTCC\bin\Debug\EntityFramework.SqlServer.dll
+E:\SistemaTCC\SistemaTCC\bin\Debug\Google.Protobuf.dll
+E:\SistemaTCC\SistemaTCC\bin\Debug\K4os.Compression.LZ4.dll
+E:\SistemaTCC\SistemaTCC\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\SistemaTCC\SistemaTCC\bin\Debug\K4os.Hash.xxHash.dll
+E:\SistemaTCC\SistemaTCC\bin\Debug\MySql.Data.dll
+E:\SistemaTCC\SistemaTCC\bin\Debug\System.Buffers.dll
+E:\SistemaTCC\SistemaTCC\bin\Debug\System.Memory.dll
+E:\SistemaTCC\SistemaTCC\bin\Debug\System.Numerics.Vectors.dll
+E:\SistemaTCC\SistemaTCC\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\SistemaTCC\SistemaTCC\bin\Debug\Ubiety.Dns.Core.dll
+E:\SistemaTCC\SistemaTCC\bin\Debug\ZstdNet.dll
+E:\SistemaTCC\SistemaTCC\bin\Debug\EntityFramework.xml
+E:\SistemaTCC\SistemaTCC\bin\Debug\EntityFramework.SqlServer.xml
+E:\SistemaTCC\SistemaTCC\bin\Debug\Google.Protobuf.pdb
+E:\SistemaTCC\SistemaTCC\bin\Debug\Google.Protobuf.xml
+E:\SistemaTCC\SistemaTCC\bin\Debug\K4os.Compression.LZ4.xml
+E:\SistemaTCC\SistemaTCC\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\SistemaTCC\SistemaTCC\bin\Debug\K4os.Hash.xxHash.xml
+E:\SistemaTCC\SistemaTCC\bin\Debug\MySql.Data.xml
+E:\SistemaTCC\SistemaTCC\bin\Debug\System.Buffers.xml
+E:\SistemaTCC\SistemaTCC\bin\Debug\System.Memory.xml
+E:\SistemaTCC\SistemaTCC\bin\Debug\System.Numerics.Vectors.xml
+E:\SistemaTCC\SistemaTCC\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.frmLogin.resources
+E:\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.frmPrincipal.resources
+E:\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.Properties.Resources.resources
+E:\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.csproj.GenerateResource.cache
+E:\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.csproj.CoreCompileInputs.cache
+E:\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.csproj.CopyComplete
+E:\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.exe
+E:\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.pdb
+D:\SistemaTCC\SistemaTCC\bin\Debug\SistemaTCC.exe.config
+D:\SistemaTCC\SistemaTCC\bin\Debug\SistemaTCC.exe
+D:\SistemaTCC\SistemaTCC\bin\Debug\SistemaTCC.pdb
+D:\SistemaTCC\SistemaTCC\bin\Debug\BouncyCastle.Crypto.dll
+D:\SistemaTCC\SistemaTCC\bin\Debug\EntityFramework.dll
+D:\SistemaTCC\SistemaTCC\bin\Debug\EntityFramework.SqlServer.dll
+D:\SistemaTCC\SistemaTCC\bin\Debug\Google.Protobuf.dll
+D:\SistemaTCC\SistemaTCC\bin\Debug\K4os.Compression.LZ4.dll
+D:\SistemaTCC\SistemaTCC\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\SistemaTCC\SistemaTCC\bin\Debug\K4os.Hash.xxHash.dll
+D:\SistemaTCC\SistemaTCC\bin\Debug\MySql.Data.dll
+D:\SistemaTCC\SistemaTCC\bin\Debug\System.Buffers.dll
+D:\SistemaTCC\SistemaTCC\bin\Debug\System.Memory.dll
+D:\SistemaTCC\SistemaTCC\bin\Debug\System.Numerics.Vectors.dll
+D:\SistemaTCC\SistemaTCC\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SistemaTCC\SistemaTCC\bin\Debug\Ubiety.Dns.Core.dll
+D:\SistemaTCC\SistemaTCC\bin\Debug\ZstdNet.dll
+D:\SistemaTCC\SistemaTCC\bin\Debug\EntityFramework.xml
+D:\SistemaTCC\SistemaTCC\bin\Debug\EntityFramework.SqlServer.xml
+D:\SistemaTCC\SistemaTCC\bin\Debug\Google.Protobuf.pdb
+D:\SistemaTCC\SistemaTCC\bin\Debug\Google.Protobuf.xml
+D:\SistemaTCC\SistemaTCC\bin\Debug\K4os.Compression.LZ4.xml
+D:\SistemaTCC\SistemaTCC\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\SistemaTCC\SistemaTCC\bin\Debug\K4os.Hash.xxHash.xml
+D:\SistemaTCC\SistemaTCC\bin\Debug\MySql.Data.xml
+D:\SistemaTCC\SistemaTCC\bin\Debug\System.Buffers.xml
+D:\SistemaTCC\SistemaTCC\bin\Debug\System.Memory.xml
+D:\SistemaTCC\SistemaTCC\bin\Debug\System.Numerics.Vectors.xml
+D:\SistemaTCC\SistemaTCC\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.csprojAssemblyReference.cache
+D:\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.frmLogin.resources
+D:\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.frmPrincipal.resources
+D:\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.Properties.Resources.resources
+D:\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.csproj.GenerateResource.cache
+D:\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.csproj.CoreCompileInputs.cache
+D:\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.csproj.CopyComplete
+D:\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.exe
+D:\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.pdb
+F:\SistemaTCC\SistemaTCC\bin\Debug\SistemaTCC.exe.config
+F:\SistemaTCC\SistemaTCC\bin\Debug\SistemaTCC.exe
+F:\SistemaTCC\SistemaTCC\bin\Debug\SistemaTCC.pdb
+F:\SistemaTCC\SistemaTCC\bin\Debug\BouncyCastle.Crypto.dll
+F:\SistemaTCC\SistemaTCC\bin\Debug\EntityFramework.dll
+F:\SistemaTCC\SistemaTCC\bin\Debug\EntityFramework.SqlServer.dll
+F:\SistemaTCC\SistemaTCC\bin\Debug\Google.Protobuf.dll
+F:\SistemaTCC\SistemaTCC\bin\Debug\K4os.Compression.LZ4.dll
+F:\SistemaTCC\SistemaTCC\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\SistemaTCC\SistemaTCC\bin\Debug\K4os.Hash.xxHash.dll
+F:\SistemaTCC\SistemaTCC\bin\Debug\MySql.Data.dll
+F:\SistemaTCC\SistemaTCC\bin\Debug\System.Buffers.dll
+F:\SistemaTCC\SistemaTCC\bin\Debug\System.Memory.dll
+F:\SistemaTCC\SistemaTCC\bin\Debug\System.Numerics.Vectors.dll
+F:\SistemaTCC\SistemaTCC\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\SistemaTCC\SistemaTCC\bin\Debug\Ubiety.Dns.Core.dll
+F:\SistemaTCC\SistemaTCC\bin\Debug\ZstdNet.dll
+F:\SistemaTCC\SistemaTCC\bin\Debug\EntityFramework.xml
+F:\SistemaTCC\SistemaTCC\bin\Debug\EntityFramework.SqlServer.xml
+F:\SistemaTCC\SistemaTCC\bin\Debug\Google.Protobuf.pdb
+F:\SistemaTCC\SistemaTCC\bin\Debug\Google.Protobuf.xml
+F:\SistemaTCC\SistemaTCC\bin\Debug\K4os.Compression.LZ4.xml
+F:\SistemaTCC\SistemaTCC\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\SistemaTCC\SistemaTCC\bin\Debug\K4os.Hash.xxHash.xml
+F:\SistemaTCC\SistemaTCC\bin\Debug\MySql.Data.xml
+F:\SistemaTCC\SistemaTCC\bin\Debug\System.Buffers.xml
+F:\SistemaTCC\SistemaTCC\bin\Debug\System.Memory.xml
+F:\SistemaTCC\SistemaTCC\bin\Debug\System.Numerics.Vectors.xml
+F:\SistemaTCC\SistemaTCC\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.csproj.AssemblyReference.cache
+F:\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.frmLogin.resources
+F:\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.frmPrincipal.resources
+F:\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.Properties.Resources.resources
+F:\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.csproj.GenerateResource.cache
+F:\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.csproj.CoreCompileInputs.cache
+F:\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.csproj.CopyComplete
+F:\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.exe
+F:\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.pdb
+E:\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.csprojAssemblyReference.cache
+C:\Users\Miguel Veloso Garcia\Desktop\SistemaTCC\SistemaTCC\bin\Debug\SistemaTCC.exe.config
+C:\Users\Miguel Veloso Garcia\Desktop\SistemaTCC\SistemaTCC\bin\Debug\SistemaTCC.exe
+C:\Users\Miguel Veloso Garcia\Desktop\SistemaTCC\SistemaTCC\bin\Debug\SistemaTCC.pdb
+C:\Users\Miguel Veloso Garcia\Desktop\SistemaTCC\SistemaTCC\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Miguel Veloso Garcia\Desktop\SistemaTCC\SistemaTCC\bin\Debug\EntityFramework.dll
+C:\Users\Miguel Veloso Garcia\Desktop\SistemaTCC\SistemaTCC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Miguel Veloso Garcia\Desktop\SistemaTCC\SistemaTCC\bin\Debug\Google.Protobuf.dll
+C:\Users\Miguel Veloso Garcia\Desktop\SistemaTCC\SistemaTCC\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Miguel Veloso Garcia\Desktop\SistemaTCC\SistemaTCC\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Miguel Veloso Garcia\Desktop\SistemaTCC\SistemaTCC\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Miguel Veloso Garcia\Desktop\SistemaTCC\SistemaTCC\bin\Debug\MySql.Data.dll
+C:\Users\Miguel Veloso Garcia\Desktop\SistemaTCC\SistemaTCC\bin\Debug\System.Buffers.dll
+C:\Users\Miguel Veloso Garcia\Desktop\SistemaTCC\SistemaTCC\bin\Debug\System.Memory.dll
+C:\Users\Miguel Veloso Garcia\Desktop\SistemaTCC\SistemaTCC\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Miguel Veloso Garcia\Desktop\SistemaTCC\SistemaTCC\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Miguel Veloso Garcia\Desktop\SistemaTCC\SistemaTCC\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Miguel Veloso Garcia\Desktop\SistemaTCC\SistemaTCC\bin\Debug\ZstdNet.dll
+C:\Users\Miguel Veloso Garcia\Desktop\SistemaTCC\SistemaTCC\bin\Debug\EntityFramework.xml
+C:\Users\Miguel Veloso Garcia\Desktop\SistemaTCC\SistemaTCC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Miguel Veloso Garcia\Desktop\SistemaTCC\SistemaTCC\bin\Debug\Google.Protobuf.pdb
+C:\Users\Miguel Veloso Garcia\Desktop\SistemaTCC\SistemaTCC\bin\Debug\Google.Protobuf.xml
+C:\Users\Miguel Veloso Garcia\Desktop\SistemaTCC\SistemaTCC\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Miguel Veloso Garcia\Desktop\SistemaTCC\SistemaTCC\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Miguel Veloso Garcia\Desktop\SistemaTCC\SistemaTCC\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Miguel Veloso Garcia\Desktop\SistemaTCC\SistemaTCC\bin\Debug\MySql.Data.xml
+C:\Users\Miguel Veloso Garcia\Desktop\SistemaTCC\SistemaTCC\bin\Debug\System.Buffers.xml
+C:\Users\Miguel Veloso Garcia\Desktop\SistemaTCC\SistemaTCC\bin\Debug\System.Memory.xml
+C:\Users\Miguel Veloso Garcia\Desktop\SistemaTCC\SistemaTCC\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Miguel Veloso Garcia\Desktop\SistemaTCC\SistemaTCC\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Miguel Veloso Garcia\Desktop\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.csproj.AssemblyReference.cache
+C:\Users\Miguel Veloso Garcia\Desktop\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.csproj.SuggestedBindingRedirects.cache
+C:\Users\Miguel Veloso Garcia\Desktop\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.frmLogin.resources
+C:\Users\Miguel Veloso Garcia\Desktop\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.frmPrincipal.resources
+C:\Users\Miguel Veloso Garcia\Desktop\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.Properties.Resources.resources
+C:\Users\Miguel Veloso Garcia\Desktop\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.csproj.GenerateResource.cache
+C:\Users\Miguel Veloso Garcia\Desktop\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Veloso Garcia\Desktop\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.csproj.CopyComplete
+C:\Users\Miguel Veloso Garcia\Desktop\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.exe
+C:\Users\Miguel Veloso Garcia\Desktop\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.pdb
+F:\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.csproj.SuggestedBindingRedirects.cache
+C:\Users\Resende\Documents\SistemaTCC\SistemaTCC\bin\Debug\SistemaTCC.exe.config
+C:\Users\Resende\Documents\SistemaTCC\SistemaTCC\bin\Debug\SistemaTCC.exe
+C:\Users\Resende\Documents\SistemaTCC\SistemaTCC\bin\Debug\SistemaTCC.pdb
+C:\Users\Resende\Documents\SistemaTCC\SistemaTCC\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Resende\Documents\SistemaTCC\SistemaTCC\bin\Debug\EntityFramework.dll
+C:\Users\Resende\Documents\SistemaTCC\SistemaTCC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Resende\Documents\SistemaTCC\SistemaTCC\bin\Debug\Google.Protobuf.dll
+C:\Users\Resende\Documents\SistemaTCC\SistemaTCC\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Resende\Documents\SistemaTCC\SistemaTCC\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Resende\Documents\SistemaTCC\SistemaTCC\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Resende\Documents\SistemaTCC\SistemaTCC\bin\Debug\MySql.Data.dll
+C:\Users\Resende\Documents\SistemaTCC\SistemaTCC\bin\Debug\System.Buffers.dll
+C:\Users\Resende\Documents\SistemaTCC\SistemaTCC\bin\Debug\System.Memory.dll
+C:\Users\Resende\Documents\SistemaTCC\SistemaTCC\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Resende\Documents\SistemaTCC\SistemaTCC\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Resende\Documents\SistemaTCC\SistemaTCC\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Resende\Documents\SistemaTCC\SistemaTCC\bin\Debug\ZstdNet.dll
+C:\Users\Resende\Documents\SistemaTCC\SistemaTCC\bin\Debug\EntityFramework.xml
+C:\Users\Resende\Documents\SistemaTCC\SistemaTCC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Resende\Documents\SistemaTCC\SistemaTCC\bin\Debug\Google.Protobuf.pdb
+C:\Users\Resende\Documents\SistemaTCC\SistemaTCC\bin\Debug\Google.Protobuf.xml
+C:\Users\Resende\Documents\SistemaTCC\SistemaTCC\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Resende\Documents\SistemaTCC\SistemaTCC\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Resende\Documents\SistemaTCC\SistemaTCC\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Resende\Documents\SistemaTCC\SistemaTCC\bin\Debug\MySql.Data.xml
+C:\Users\Resende\Documents\SistemaTCC\SistemaTCC\bin\Debug\System.Buffers.xml
+C:\Users\Resende\Documents\SistemaTCC\SistemaTCC\bin\Debug\System.Memory.xml
+C:\Users\Resende\Documents\SistemaTCC\SistemaTCC\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Resende\Documents\SistemaTCC\SistemaTCC\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Resende\Documents\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.csproj.AssemblyReference.cache
+C:\Users\Resende\Documents\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.frmLogin.resources
+C:\Users\Resende\Documents\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.frmPrincipal.resources
+C:\Users\Resende\Documents\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.Properties.Resources.resources
+C:\Users\Resende\Documents\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.csproj.GenerateResource.cache
+C:\Users\Resende\Documents\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.csproj.CoreCompileInputs.cache
+C:\Users\Resende\Documents\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.csproj.CopyComplete
+C:\Users\Resende\Documents\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.exe
+C:\Users\Resende\Documents\SistemaTCC\SistemaTCC\obj\Debug\SistemaTCC.pdb
+F:\SistemaTCC-Atualizado\SistemaTCC\bin\Debug\SistemaTCC.exe.config
+F:\SistemaTCC-Atualizado\SistemaTCC\bin\Debug\SistemaTCC.exe
+F:\SistemaTCC-Atualizado\SistemaTCC\bin\Debug\SistemaTCC.pdb
+F:\SistemaTCC-Atualizado\SistemaTCC\bin\Debug\BouncyCastle.Crypto.dll
+F:\SistemaTCC-Atualizado\SistemaTCC\bin\Debug\EntityFramework.dll
+F:\SistemaTCC-Atualizado\SistemaTCC\bin\Debug\EntityFramework.SqlServer.dll
+F:\SistemaTCC-Atualizado\SistemaTCC\bin\Debug\Google.Protobuf.dll
+F:\SistemaTCC-Atualizado\SistemaTCC\bin\Debug\K4os.Compression.LZ4.dll
+F:\SistemaTCC-Atualizado\SistemaTCC\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\SistemaTCC-Atualizado\SistemaTCC\bin\Debug\K4os.Hash.xxHash.dll
+F:\SistemaTCC-Atualizado\SistemaTCC\bin\Debug\MySql.Data.dll
+F:\SistemaTCC-Atualizado\SistemaTCC\bin\Debug\System.Buffers.dll
+F:\SistemaTCC-Atualizado\SistemaTCC\bin\Debug\System.Memory.dll
+F:\SistemaTCC-Atualizado\SistemaTCC\bin\Debug\System.Numerics.Vectors.dll
+F:\SistemaTCC-Atualizado\SistemaTCC\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\SistemaTCC-Atualizado\SistemaTCC\bin\Debug\Ubiety.Dns.Core.dll
+F:\SistemaTCC-Atualizado\SistemaTCC\bin\Debug\ZstdNet.dll
+F:\SistemaTCC-Atualizado\SistemaTCC\bin\Debug\EntityFramework.xml
+F:\SistemaTCC-Atualizado\SistemaTCC\bin\Debug\EntityFramework.SqlServer.xml
+F:\SistemaTCC-Atualizado\SistemaTCC\bin\Debug\Google.Protobuf.pdb
+F:\SistemaTCC-Atualizado\SistemaTCC\bin\Debug\Google.Protobuf.xml
+F:\SistemaTCC-Atualizado\SistemaTCC\bin\Debug\K4os.Compression.LZ4.xml
+F:\SistemaTCC-Atualizado\SistemaTCC\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\SistemaTCC-Atualizado\SistemaTCC\bin\Debug\K4os.Hash.xxHash.xml
+F:\SistemaTCC-Atualizado\SistemaTCC\bin\Debug\MySql.Data.xml
+F:\SistemaTCC-Atualizado\SistemaTCC\bin\Debug\System.Buffers.xml
+F:\SistemaTCC-Atualizado\SistemaTCC\bin\Debug\System.Memory.xml
+F:\SistemaTCC-Atualizado\SistemaTCC\bin\Debug\System.Numerics.Vectors.xml
+F:\SistemaTCC-Atualizado\SistemaTCC\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\SistemaTCC-Atualizado\SistemaTCC\obj\Debug\SistemaTCC.csproj.AssemblyReference.cache
+F:\SistemaTCC-Atualizado\SistemaTCC\obj\Debug\SistemaTCC.frmLogin.resources
+F:\SistemaTCC-Atualizado\SistemaTCC\obj\Debug\SistemaTCC.frmPrincipal.resources
+F:\SistemaTCC-Atualizado\SistemaTCC\obj\Debug\SistemaTCC.Properties.Resources.resources
+F:\SistemaTCC-Atualizado\SistemaTCC\obj\Debug\SistemaTCC.csproj.GenerateResource.cache
+F:\SistemaTCC-Atualizado\SistemaTCC\obj\Debug\SistemaTCC.csproj.CoreCompileInputs.cache
+F:\SistemaTCC-Atualizado\SistemaTCC\obj\Debug\SistemaTCC.csproj.CopyComplete
+F:\SistemaTCC-Atualizado\SistemaTCC\obj\Debug\SistemaTCC.exe
+F:\SistemaTCC-Atualizado\SistemaTCC\obj\Debug\SistemaTCC.pdb
